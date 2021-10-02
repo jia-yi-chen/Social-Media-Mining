@@ -1,11 +1,10 @@
 # Graph Mining
 
-Python implementation for some algorithms in Graph Mining and Recommendation by [Jiayi Chen](https://github.com/jia-yi-chen), including the following topics
+Python implementation of the following algorithms:
 
 
 * **Network**:
-  - Scrabing Data
-  - Network Construbtion and measurement (e.g., Pagerank, clustering coefficient, ...) 
+  - Scrabing Data, Network Construbtion and Network Measurement (e.g., Pagerank, clustering coefficient, ...) 
 * **Recommendation**: 
   - User-based Collaborative Filtering
   - Item-based Collaborative Filtering
@@ -13,6 +12,9 @@ Python implementation for some algorithms in Graph Mining and Recommendation by 
   - Spectral clustering algorithm
   - Modularity maximization algorithm
 
+By [Jiayi Chen](https://github.com/jia-yi-chen) in May 2021.
+
+Time: May 2021
 
 ## Requirements
 
