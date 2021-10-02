@@ -1,6 +1,6 @@
 # Graph Mining
 
-Python implementation of the following algorithms:
+Python implementation by [Jiayi Chen](https://github.com/jia-yi-chen), for the following algorithms:
 
 
 * **Network**:
@@ -12,9 +12,8 @@ Python implementation of the following algorithms:
   - Spectral clustering algorithm
   - Modularity maximization algorithm
 
-By [Jiayi Chen](https://github.com/jia-yi-chen) in May 2021.
 
-Time: May 2021
+
 
 ## Requirements
 
