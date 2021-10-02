@@ -1,3 +1,10 @@
+"""
+Created on April 2021
+
+author: Jiayi Chen
+
+"""
+
 import arxivscraper as ax
 import pandas as pd
 import networkx as nx
