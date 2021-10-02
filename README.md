@@ -44,7 +44,7 @@ run "/community_detection/main.py"
 * Spectral clustering:  /community_detection/spectral_clustering.py
 * modularity maximization:  /community_detection/modularity_maximization.py
 * Result example:
- ![image](https://github.com/jia-yi-chen/Graph-Mining/tree/main/community_detection/figs/spectralresult.jpg)
- ![image](https://github.com/jia-yi-chen/Graph-Mining/tree/main/community_detection/figs/modularityresult.jpg)
+ ![image](https://github.com/jia-yi-chen/Graph-Mining/blob/main/community_detection/figs/spectralresult.jpg)
+ ![image](https://github.com/jia-yi-chen/Graph-Mining/blob/main/community_detection/figs/modularityresult.jpg)
 
 
