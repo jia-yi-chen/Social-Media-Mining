@@ -1,7 +1,10 @@
 # Graph Mining
 
-Python implementation by [Jiayi Chen](https://github.com/jia-yi-chen), for the following algorithms:
+Author: [Jiayi Chen](https://github.com/jia-yi-chen)
 
+Time: April 2021
+
+## Implemented Algorithms:
 
 * **Network**:
   - Scrabing Data, Network Construbtion and Network Measurement (e.g., Pagerank, clustering coefficient, ...) 
@@ -11,8 +14,6 @@ Python implementation by [Jiayi Chen](https://github.com/jia-yi-chen), for the f
 * **Community Detection**: 
   - Spectral clustering algorithm
   - Modularity maximization algorithm
-
-
 
 
 ## Requirements
