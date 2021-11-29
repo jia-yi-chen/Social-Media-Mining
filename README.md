@@ -1,4 +1,4 @@
-# Social Medio Mining
+# Social Media Mining
 
 Time: April 2021
 
