@@ -1,6 +1,4 @@
-# Graph Mining
-
-Author: [Jiayi Chen](https://github.com/jia-yi-chen)
+# Social Medio Mining
 
 Time: April 2021
 
